@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="vuesax/linear/cpu-charge">
+<g id="cpu-charge">
+<path id="Vector" d="M12.8 26.6667H19.2C24.5334 26.6667 26.6667 24.5334 26.6667 19.2V12.8C26.6667 7.46671 24.5334 5.33337 19.2 5.33337H12.8C7.46671 5.33337 5.33337 7.46671 5.33337 12.8V19.2C5.33337 24.5334 7.46671 26.6667 12.8 26.6667Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M14 22.6667H18C21.3334 22.6667 22.6667 21.3334 22.6667 18V14C22.6667 10.6667 21.3334 9.33337 18 9.33337H14C10.6667 9.33337 9.33337 10.6667 9.33337 14V18C9.33337 21.3334 10.6667 22.6667 14 22.6667Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M10.6801 5.33329V2.66663" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M16 5.33329V2.66663" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M21.3334 5.33329V2.66663" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M26.6666 10.6666H29.3333" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_7" d="M26.6666 16H29.3333" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_8" d="M26.6666 21.3334H29.3333" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_9" d="M21.3334 26.6666V29.3333" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_10" d="M16.0133 26.6666V29.3333" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_11" d="M10.6801 26.6666V29.3333" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_12" d="M2.66663 10.6666H5.33329" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_13" d="M2.66663 16H5.33329" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_14" d="M2.66663 21.3334H5.33329" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_15" d="M16 12.9333L14.7467 15.12C14.4667 15.6 14.6934 16 15.2534 16H16.7467C17.3067 16 17.5334 16.4 17.2534 16.88L16 19.0667" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

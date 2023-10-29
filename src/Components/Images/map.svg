@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="vuesax/linear/map">
+<g id="map">
+<path id="Vector" d="M29.3333 12V20C29.3333 23.3333 28.6666 25.6667 27.1733 27.1733L18.6666 18.6666L28.9733 8.35999C29.2133 9.41332 29.3333 10.6133 29.3333 12Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M28.9733 8.35997L8.35994 28.9733C4.34661 28.0533 2.66663 25.28 2.66663 20V12C2.66663 5.33329 5.33329 2.66663 12 2.66663H20C25.28 2.66663 28.0533 4.34663 28.9733 8.35997Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M27.1733 27.1733C25.6667 28.6666 23.3333 29.3333 20 29.3333H12C10.6133 29.3333 9.41332 29.2133 8.35999 28.9733L18.6667 18.6666L27.1733 27.1733Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M8.31998 10.64C9.22665 6.73329 15.0933 6.73329 16 10.64C16.52 12.9333 15.08 14.88 13.8133 16.08C12.8933 16.96 11.44 16.96 10.5067 16.08C9.24 14.88 7.78665 12.9333 8.31998 10.64Z" stroke="#292D32" stroke-width="2"/>
+<path id="Vector_5" d="M12.1261 11.6H12.1381" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
